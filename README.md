@@ -3,4 +3,4 @@ This repo contains the preliminary report for the work I did on the memorization
 
 The paper itself can be found in stability-writeup.pdf
 
-LaTex code to generate the paper can be found in main.tex
+LaTeX code to generate the paper can be found in main.tex
